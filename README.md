@@ -1,6 +1,6 @@
 # Parcial 1 AREP - Santiago Fetecua Suarez
 
-## Intalación
+## Instalación
 
 Clonar el repositorio 
 
